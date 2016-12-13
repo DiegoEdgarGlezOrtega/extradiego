@@ -8,7 +8,7 @@ urls = (
     '/(.*)', 'index'
 )
 
-db = web.database(dbn='mysql', db='Rentapeliculas', user='root', pw='1234')
+db = web.database(dbn='mysql', db='ei61l2qid60lviw9', user='hfxl194mbxpv7ff8', pw='qpk282xn6jyssh05',host='o61qijqeuqnj9chh.cbetxkdyhwsb.us-east-1.rds.amazonaws.com')
 
 Clientes = Clientes()  
 Clientes.read()
