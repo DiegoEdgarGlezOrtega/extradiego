@@ -1,0 +1,37 @@
+$def with (form,resultado)
+<html>
+<head>   
+    
+    <link href="../static/css/estilo3.css" media="screen" rel="StyleSheet" type="text/css">
+    <title>Personaje</title>
+</head>
+
+    <body class="body">
+<form name="main" method="post"> 
+$if not form.valid: <p class="error">Try again:</p>
+$:form.render()
+
+<input type="submit" id="boton" />   
+
+<CENTER>
+<table >
+
+    <th> pelicula</th>
+    <th> formato</th>
+     <th> Duracion</th>
+    <th> Nombre Del Cliente</th>
+     <th> total</th>
+
+     $for row in resultado:
+      <tr>
+          <td>$row.pelicula</td>
+           <td>$row.formato</td>
+            <td>$row.duracion</td> 
+            <td>$row.nombreCliente </td>
+             <td>$row.total </td>
+      </tr>
+</table>
+</CENTER>
+ </form>
+    </body>
+</html>

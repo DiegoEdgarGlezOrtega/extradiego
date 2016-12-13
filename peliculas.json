@@ -1,0 +1,31 @@
+{
+    "resultado": [{
+            "id": "1",
+            "nombre": "Rogue One"
+        },
+        {
+            "id": "2",
+            "nombre": "Moana"
+        },
+        {
+            "id": "3",
+            "nombre": "Inframundo"
+        },
+        {
+            "id": "4",
+            "nombre": "Animales Fantasticos y Dondé Encontrarlos"
+        },
+        {
+            "id": "5",
+            "nombre": "Que pena tu Vida"
+        },
+        {
+            "id": "6",
+            "nombre": "Macho"
+        },
+        {
+            "id": "7",
+            "nombre": "La llegada"
+        }
+    ]
+}

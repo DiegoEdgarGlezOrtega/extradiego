@@ -1,0 +1,31 @@
+{
+    "resultado": [{
+            "id": "1",
+            "nombre": "Sebastian Alfaro Rosales"
+        },
+        {
+            "id": "2",
+            "nombre": "Ribay Fernandez Romero"
+        },
+        {
+            "id": "3",
+            "nombre": "Diego Edgar Gonzalez Ortega"
+        },
+        {
+            "id": "4",
+            "nombre": "Jesus Uriel Gallegos Badillo"
+        },
+        {
+            "id": "5",
+            "nombre": "Jose Eduardo Cruz Maldonado"
+        },
+        {
+            "id": "6",
+            "nombre": "Alejandro Arce Suarez"
+        },
+        {
+            "id": "7",
+            "nombre": "Ricardo Alvarado Miranda"
+        }
+    ]
+}
